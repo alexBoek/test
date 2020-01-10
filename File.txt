@@ -1,4 +1,4 @@
 stable branch
 branch_1_merge
 branch_2_merge
-new_branch_merge
+new_branch_merge2
